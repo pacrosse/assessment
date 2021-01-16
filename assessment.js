@@ -25,6 +25,7 @@ assessmentButton.onclick = () => { //=>はアロー関数。functionの記載を
     resultDivided.appendChild(paragraph);
 }
 
+
 const answers = [
   '{userName}のいいところは声です。{userName}の特徴的な声は皆を惹きつけ、心に残ります。',
   '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
